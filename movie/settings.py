@@ -15,7 +15,7 @@ SECRET_KEY = '^^byshnlt%oxo@j5)gf*j&uqu&kykj79j*sh+_q^9-#j19-30t'
 DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', 'movies-by-rasul.herokuapp.com',
-                 'movies-test-delete.herokuapp.com']
+                 'movies-test-delete.herokuapp.com', 'https://movies-by-rasul-1.herokuapp.com']
 
 
 # Application definition
