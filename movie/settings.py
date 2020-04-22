@@ -17,7 +17,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['localhost', 'movies-by-rasul.herokuapp.com',
                  'movies-test-delete.herokuapp.com', 'https://movies-by-rasul-1.herokuapp.com']
 
-
+# added some dummy comment
 # Application definition
 
 INSTALLED_APPS = [
